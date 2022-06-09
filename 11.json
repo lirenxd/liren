@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.githubusercontent.com/lirenxd/liren/main/jian.jar",
+"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14990492888/0",
 
 "sites":[
 // ⇩⇩ jar包内东东 ⇩⇩
@@ -59,7 +59,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"longxia",
-     "type":0,
+     "type":1,
      "url":"http://81.71.48.249:4456/jsonc/longxia.php?url=",
      "ext":{
            "flag":[
